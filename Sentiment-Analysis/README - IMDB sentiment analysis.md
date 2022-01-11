@@ -1,5 +1,3 @@
-# Machine-Learning-Projects
-Collection of machine learning projects
 Implementation of Sentiment Analysis using IMDB database on movie reviews and rating 
 ### Problem statement
 - The analysis aims to predict whether a reviewer is more likely to give a movie a good rating (>= 6 stars) or a bad one (<= 5 stars) based on the content of the review
